@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭  I’m currently working on: Enhancing my skills in cybersecurity by tackling real-world challenges and building my own security tools.<br>👯  I’m looking to collaborate on: Projects that involve creating or improving cybersecurity solutions, or coding challenges related to security.<br>🤝 I’m looking for help with: Advanced topics in cybersecurity, like penetration testing or threat modeling, and learning more about the latest security vulnerabilities.<br>🌱 I’m currently learning: The intricacies of cybersecurity, including ethical hacking techniques, network security, and cryptography.<br>💬  Ask me about: Coding practices for secure software development or the latest trends in cybersecurity threats and defenses.<br>⚡ Fun fact: Did you know that the first computer virus was created in the 1980s and was called the "Elk Cloner"? It was more of a prank than a serious threat!
 
 
 ## 🌐 Socials:
